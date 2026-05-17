@@ -10,6 +10,8 @@ languages and frameworks as I go.
 - **[Autoclicker](https://github.com/DagaVedant/Autoclicker)** — Privacy-first open source autoclicker, runs fully locally
 - **[Leccion-7-de-Espanol](https://github.com/DagaVedant/Leccion-7-de-Espanol)** — Spanish learning web app built with React, Node.js & TypeScript
 - **[FRC-Chatbot-Team-10600](https://github.com/DagaVedant/FRC-Chatbot-Team-10600)** — RAG-powered AI assistant for an FRC robotics team using FastAPI & Ollama
+- **[EMNIST-Character-Classifier](https://github.com/DagaVedant/EMNIST-Character-Classifier)** — CNN trained on EMNIST Balanced using Flask, Wandb, Pytorch, etc
+- **[AI-Portfolio-Analyzer](https://github.com/DagaVedant/AI-Portfolio-Analyzer)** — LSTM model trained on 46 different stock ETFs using yfinance, NewsAPI, PyTorch, Streamlit, etc
 
 ## Currently
 - Working through certifications in AI/ML and software engineering
@@ -19,6 +21,7 @@ languages and frameworks as I go.
 ## Tech I Use
 `Python` `TypeScript` `JavaScript` `React` `Node.js` `FastAPI`
 `OpenAI API` `Ollama` `scikit-learn` `numpy` `Jupyter` `PowerShell`
+`PyTorch` `HTML + CSS` `WandB` `Streamlit`
 
 ---
 *Always building something new — check the repos below.*
