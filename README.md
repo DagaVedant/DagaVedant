@@ -1,8 +1,8 @@
 <h1 align="center">Hey, I'm Vedant</h1>
 
 <p align="center">
-  aspiring AI engineer and full stack dev, always building and learning new stuff.<br>
-  i mostly work on AI/ML, full stack web, IoT, and automation projects.
+  Aspiring AI engineer and full stack dev, always building and learning new stuff.<br>
+  I mostly work on AI/ML, full stack web, IoT, and automation projects.
 </p>
 
 <p align="center">
@@ -12,15 +12,15 @@
 
 ---
 
-## about me
+## About Me
 
-i build across AI/ML, deep learning, full stack, and embedded systems. right now i'm training neural nets, shipping web apps, and messing around with my Raspberry Pi. always picking up new frameworks and getting better at Python, TypeScript, and C++. also on FRC Team 10600, Two Steps Ahead.
+I build across AI/ML, deep learning, full stack, and embedded systems. Right now I'm training neural nets, shipping web apps, and messing around with my Raspberry Pi. Always picking up new frameworks and getting better at Python, TypeScript, and C++. Also on FRC Team 10600, Two Steps Ahead.
 
 ---
 
-## tech i use
+## Tech I Use
 
-**languages**
+**Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -40,7 +40,7 @@ i build across AI/ML, deep learning, full stack, and embedded systems. right now
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
 ![WandB](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black)
 
-**web & tools**
+**Web & Tools**
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
@@ -52,7 +52,7 @@ i build across AI/ML, deep learning, full stack, and embedded systems. right now
 
 ---
 
-## github stats
+## GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=DagaVedant&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats">
@@ -61,33 +61,33 @@ i build across AI/ML, deep learning, full stack, and embedded systems. right now
 
 ---
 
-## projects i've built
+## Projects I've Built
 
-### AI / machine learning
-| project | what it does |
+### AI / Machine Learning
+| Project | What it does |
 | --- | --- |
 | **[AI-Portfolio-Analyzer](https://github.com/DagaVedant/AI-Portfolio-Analyzer)** | LSTM and Transformer models that predict returns, volatility, and downside risk across 46 stocks, with sentiment analysis, portfolio optimization, and a full backtesting engine |
-| **[GardenBuddy](https://github.com/DagaVedant/GardenBuddy)** | real-time Raspberry Pi garden monitor with dual AI (a custom LSTM plus a local Ollama LLM) for live soil, temp, humidity, and light insights on a React dashboard |
+| **[GardenBuddy](https://github.com/DagaVedant/GardenBuddy)** | Real-time Raspberry Pi garden monitor with dual AI (a custom LSTM plus a local Ollama LLM) for live soil, temp, humidity, and light insights on a React dashboard |
 | **[FRC-Chatbot-Team-10600](https://github.com/DagaVedant/FRC-Chatbot-Team-10600)** | Avocado, an AI pit assistant for FRC Team 10600 built with FastAPI, Ollama, and a hybrid TF-IDF plus semantic RAG system with conversation memory |
 | **[EMNIST-Character-Classifier](https://github.com/DagaVedant/EMNIST-Character-Classifier)** | CNN trained on EMNIST Balanced with PyTorch and WandB, plus an interactive drawing web app |
-| **[California-House-Price-Predictor](https://github.com/DagaVedant/California-House-Price-Predictor)** | click a heatmap or type an address to get an XGBoost price estimate with a confidence range, all on Google Maps |
+| **[California-House-Price-Predictor](https://github.com/DagaVedant/California-House-Price-Predictor)** | Click a heatmap or type an address to get an XGBoost price estimate with a confidence range, all on Google Maps |
 | **[Spam-Message-AI-Classifier](https://github.com/DagaVedant/Spam-Message-AI-Classifier)** | NLP spam vs ham detector using a Multinomial Naive Bayes model with a full preprocessing and evaluation pipeline |
-| **[VoiceGPT](https://github.com/DagaVedant/VoiceGPT)** | voice controlled GPT assistant with speech recognition, text to speech, and image generation, built for Maker Fair 2024 |
+| **[VoiceGPT](https://github.com/DagaVedant/VoiceGPT)** | Voice controlled GPT assistant with speech recognition, text to speech, and image generation, built for Maker Fair 2024 |
 
-### full stack & web
-| project | what it does |
+### Full Stack & Web
+| Project | What it does |
 | --- | --- |
-| **[PulseFlow-AI](https://github.com/DagaVedant/PulseFlow-AI)** | healthcare platform that mixes optimization, simulation, forecasting, and AI to find and fix hospital bottlenecks, built for HackJPS |
-| **[Python-Examples](https://github.com/DagaVedant/Python-Examples)** | interactive Python course for beginners, all in the browser. no downloads, no paywalls, just lessons, quizzes, and projects to finally learn Python |
-| **[Leccion-7-de-Espanol](https://github.com/DagaVedant/Leccion-7-de-Espanol)** | spanish review site that helps students learn job vocab and verb tenses, built with React, Node.js, and TypeScript |
-| **[My-Portfolio](https://github.com/DagaVedant/My-Portfolio)** | my personal portfolio site |
+| **[PulseFlow-AI](https://github.com/DagaVedant/PulseFlow-AI)** | Healthcare platform that mixes optimization, simulation, forecasting, and AI to find and fix hospital bottlenecks, built for HackJPS |
+| **[Python-Examples](https://github.com/DagaVedant/Python-Examples)** | Interactive Python course for beginners, all in the browser. No downloads, no paywalls, just lessons, quizzes, and projects to finally learn Python |
+| **[Leccion-7-de-Espanol](https://github.com/DagaVedant/Leccion-7-de-Espanol)** | Spanish review site that helps students learn job vocab and verb tenses, built with React, Node.js, and TypeScript |
+| **[My-Portfolio](https://github.com/DagaVedant/My-Portfolio)** | My personal portfolio site |
 
-### tools & automation
-| project | what it does |
+### Tools & Automation
+| Project | What it does |
 | --- | --- |
-| **[Almanac-Slack-Bot](https://github.com/DagaVedant/Almanac-Slack-Bot)** | daily digest Slack bot that sends a fun word, fact, history event, and quote to your channel |
-| **[Autoclicker](https://github.com/DagaVedant/Autoclicker)** | an auto clicker that doesn't leak your data, open source and runs fully locally |
+| **[Almanac-Slack-Bot](https://github.com/DagaVedant/Almanac-Slack-Bot)** | Daily digest Slack bot that sends a fun word, fact, history event, and quote to your channel |
+| **[Autoclicker](https://github.com/DagaVedant/Autoclicker)** | An auto clicker that doesn't leak your data, open source and runs fully locally |
 
 ---
 
-<p align="center"><i>always building something new, take a look around the repos.</i></p>
+<p align="center"><i>Always building something new, take a look around the repos.</i></p>
