@@ -1,8 +1,10 @@
 <h1 align="center">Hey, I'm Vedant</h1>
 
-https://dagavedant.github.io/My-Portfolio/
 
 <p align="center">
+  https://dagavedant.github.io/My-Portfolio/
+
+  
   Aspiring AI engineer and full stack dev, always building and learning new stuff.<br>
   I mostly work on AI/ML, full stack web, IoT, and automation projects.
 </p>
