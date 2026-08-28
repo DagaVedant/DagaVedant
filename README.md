@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  https://dagavedant.github.io/My-Portfolio/
+  [https://dagavedant.github.io/My-Portfolio/](https://dagavedant.github.io/)
 
   
   Aspiring AI engineer and full stack dev, always building and learning new stuff.<br>
