@@ -77,11 +77,13 @@ I build across AI/ML, deep learning, full stack, and embedded systems. Right now
 | **[California-House-Price-Predictor](https://github.com/DagaVedant/California-House-Price-Predictor)** | Click a heatmap or type an address to get an XGBoost price estimate with a confidence range, all on Google Maps |
 | **[Spam-Message-AI-Classifier](https://github.com/DagaVedant/Spam-Message-AI-Classifier)** | NLP spam vs ham detector using a Multinomial Naive Bayes model with a full preprocessing and evaluation pipeline |
 | **[VoiceGPT](https://github.com/DagaVedant/VoiceGPT)** | Voice controlled GPT assistant with speech recognition, text to speech, and image generation, built for Maker Fair 2024 |
+| **[Sign-app](https://github.com/prasada29-gif/Sign-app)** | Signify, an open-source app that turns spoken English into ASL, using offline Vosk speech recognition, spaCy for English-to-gloss, and 3D hands that sign each word |
 
 ### Full Stack & Web
 | Project | What it does |
 | --- | --- |
 | **[PulseFlow-AI](https://github.com/DagaVedant/PulseFlow-AI)** | Healthcare platform that mixes optimization, simulation, forecasting, and AI to find and fix hospital bottlenecks, built for HackJPS |
+| **[VeggieBuddy](https://github.com/ved-patel226/VeggieBuddy)** | Web app that finds diet-friendly restaurants near you and recommends them by preference, built with React, TypeScript, Flask, and the Google Maps Places API |
 | **[Python-Examples](https://github.com/DagaVedant/Python-Examples)** | Interactive Python course for beginners, all in the browser. No downloads, no paywalls, just lessons, quizzes, and projects to finally learn Python |
 | **[Leccion-7-de-Espanol](https://github.com/DagaVedant/Leccion-7-de-Espanol)** | Spanish review site that helps students learn job vocab and verb tenses, built with React, Node.js, and TypeScript |
 | **[My-Portfolio](https://github.com/DagaVedant/My-Portfolio)** | My personal portfolio site |
