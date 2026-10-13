@@ -3,10 +3,8 @@
 
 <p align="center">
   https://dagavedant.github.io/
-
   
-  Aspiring AI engineer and full stack dev, always building and learning new stuff.<br>
-  I mostly work on AI/ML, full stack web, IoT, and automation projects.
+  Aspiring AI engineer and full stack dev, always building and learning new stuff. I mostly work on AI/ML, full stack web, IoT, and automation projects.
 </p>
 
 <p align="center">
