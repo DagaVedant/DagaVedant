@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/DagaVedant?tab=repositories"><img src="https://img.shields.io/badge/Repos-15-blue?style=flat-square&logo=github" alt="Repos"></a>
+  <a href="https://github.com/DagaVedant?tab=repositories"><img src="https://img.shields.io/badge/Repos-28-blue?style=flat-square&logo=github" alt="Repos"></a>
   <img src="https://komarev.com/ghpvc/?username=DagaVedant&style=flat-square&color=blue" alt="Profile views">
 </p>
 
@@ -67,32 +67,27 @@ I build across AI/ML, deep learning, full stack, and embedded systems. Right now
 
 ## Projects I've Built
 
+### Hackathon Winners
+| Project | What it does |
+| --- | --- |
+| **[PulseFlow-AI](https://github.com/DagaVedant/PulseFlow-AI)** (HackJPS 2026, Best AI/ML) | Healthcare platform that mixes optimization, simulation, forecasting, and AI to find and fix hospital bottlenecks |
+| **[VeggieBuddy](https://github.com/ved-patel226/VeggieBuddy)** (HackJPS 2025, Best AI/ML) | Web app that finds diet-friendly restaurants near you and recommends them by preference, built with React, TypeScript, Flask, and the Google Maps Places API |
+
 ### AI / Machine Learning
 | Project | What it does |
 | --- | --- |
+| **[StudyBuddy](https://github.com/DagaVedant/StudyBuddy)** ([live](https://trystudybuddy.vercel.app)) | Upload a worksheet PDF and it reads every question, tags it by topic, and brings back the ones you got wrong on an FSRS schedule |
 | **[AI-Portfolio-Analyzer](https://github.com/DagaVedant/AI-Portfolio-Analyzer)** | LSTM and Transformer models that predict returns, volatility, and downside risk across 46 stocks, with sentiment analysis, portfolio optimization, and a full backtesting engine |
 | **[GardenBuddy](https://github.com/DagaVedant/GardenBuddy)** | Real-time Raspberry Pi garden monitor with dual AI (a custom LSTM plus a local Ollama LLM) for live soil, temp, humidity, and light insights on a React dashboard |
 | **[FRC-Chatbot-Team-10600](https://github.com/DagaVedant/FRC-Chatbot-Team-10600)** | Avocado, an AI pit assistant for FRC Team 10600 built with FastAPI, Ollama, and a hybrid TF-IDF plus semantic RAG system with conversation memory |
-| **[EMNIST-Character-Classifier](https://github.com/DagaVedant/EMNIST-Character-Classifier)** | CNN trained on EMNIST Balanced with PyTorch and WandB, plus an interactive drawing web app |
-| **[California-House-Price-Predictor](https://github.com/DagaVedant/California-House-Price-Predictor)** | Click a heatmap or type an address to get an XGBoost price estimate with a confidence range, all on Google Maps |
-| **[Spam-Message-AI-Classifier](https://github.com/DagaVedant/Spam-Message-AI-Classifier)** | NLP spam vs ham detector using a Multinomial Naive Bayes model with a full preprocessing and evaluation pipeline |
-| **[VoiceGPT](https://github.com/DagaVedant/VoiceGPT)** | Voice controlled GPT assistant with speech recognition, text to speech, and image generation, built for Maker Fair 2024 |
 | **[Sign-app](https://github.com/prasada29-gif/Sign-app)** | Signify, an open-source app that turns spoken English into ASL, using offline Vosk speech recognition, spaCy for English-to-gloss, and 3D hands that sign each word |
 
-### Full Stack & Web
+### Hardware & Embedded
 | Project | What it does |
 | --- | --- |
-| **[PulseFlow-AI](https://github.com/DagaVedant/PulseFlow-AI)** | Healthcare platform that mixes optimization, simulation, forecasting, and AI to find and fix hospital bottlenecks, built for HackJPS |
-| **[VeggieBuddy](https://github.com/ved-patel226/VeggieBuddy)** | Web app that finds diet-friendly restaurants near you and recommends them by preference, built with React, TypeScript, Flask, and the Google Maps Places API |
-| **[Python-Examples](https://github.com/DagaVedant/Python-Examples)** | Interactive Python course for beginners, all in the browser. No downloads, no paywalls, just lessons, quizzes, and projects to finally learn Python |
-| **[Leccion-7-de-Espanol](https://github.com/DagaVedant/Leccion-7-de-Espanol)** | Spanish review site that helps students learn job vocab and verb tenses, built with React, Node.js, and TypeScript |
-| **[My-Portfolio](https://github.com/DagaVedant/My-Portfolio)** | My personal portfolio site |
-
-### Tools & Automation
-| Project | What it does |
-| --- | --- |
-| **[Almanac-Slack-Bot](https://github.com/DagaVedant/Almanac-Slack-Bot)** | Daily digest Slack bot that sends a fun word, fact, history event, and quote to your channel |
-| **[Autoclicker](https://github.com/DagaVedant/Autoclicker)** | An auto clicker that doesn't leak your data, open source and runs fully locally |
+| **[Helios-HackPHS-2026](https://github.com/DagaVedant/Helios-HackPHS-2026)** ([live](https://helios-hackphs.vercel.app/)) | Dual-axis solar tracker that measures sun intensity and adjusts automatically for maximum efficiency |
+| **[MiniPad](https://github.com/DagaVedant/MiniPad)** | 3x3 QMK macropad with a rotary encoder, RGB keys, and an OLED showing a clock and a spinning globe |
+| **[NotGoingToBeLateToSchool](https://github.com/DagaVedant/NotGoingToBeLateToSchool)** | 9-key bedside alarm clock and ambient info display that starts Spotify on your phone and limits snoozes to three |
 
 ---
 
