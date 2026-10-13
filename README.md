@@ -76,7 +76,7 @@ I build across AI/ML, deep learning, full stack, and embedded systems. Right now
 ### AI / Machine Learning
 | Project | What it does |
 | --- | --- |
-| **[StudyBuddy](https://github.com/DagaVedant/StudyBuddy)** ([live](https://trystudybuddy.vercel.app)) | Upload a worksheet PDF and it reads every question, tags it by topic, and brings back the ones you got wrong on an FSRS schedule |
+| **[StudyBuddy](https://github.com/DagaVedant/StudyBuddy)** | Upload a worksheet PDF and it reads every question, tags it by topic, and brings back the ones you got wrong on an FSRS schedule |
 | **[AI-Portfolio-Analyzer](https://github.com/DagaVedant/AI-Portfolio-Analyzer)** | LSTM and Transformer models that predict returns, volatility, and downside risk across 46 stocks, with sentiment analysis, portfolio optimization, and a full backtesting engine |
 | **[GardenBuddy](https://github.com/DagaVedant/GardenBuddy)** | Real-time Raspberry Pi garden monitor with dual AI (a custom LSTM plus a local Ollama LLM) for live soil, temp, humidity, and light insights on a React dashboard |
 | **[FRC-Chatbot-Team-10600](https://github.com/DagaVedant/FRC-Chatbot-Team-10600)** | Avocado, an AI pit assistant for FRC Team 10600 built with FastAPI, Ollama, and a hybrid TF-IDF plus semantic RAG system with conversation memory |
@@ -85,7 +85,7 @@ I build across AI/ML, deep learning, full stack, and embedded systems. Right now
 ### Hardware & Embedded
 | Project | What it does |
 | --- | --- |
-| **[Helios-HackPHS-2026](https://github.com/DagaVedant/Helios-HackPHS-2026)** ([live](https://helios-hackphs.vercel.app/)) | Dual-axis solar tracker that measures sun intensity and adjusts automatically for maximum efficiency |
+| **[Helios-HackPHS-2026](https://github.com/DagaVedant/Helios-HackPHS-2026)** | Dual-axis solar tracker that measures sun intensity and adjusts automatically for maximum efficiency |
 | **[MiniPad](https://github.com/DagaVedant/MiniPad)** | 3x3 QMK macropad with a rotary encoder, RGB keys, and an OLED showing a clock and a spinning globe |
 | **[NotGoingToBeLateToSchool](https://github.com/DagaVedant/NotGoingToBeLateToSchool)** | 9-key bedside alarm clock and ambient info display that starts Spotify on your phone and limits snoozes to three |
 
